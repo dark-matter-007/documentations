@@ -20,8 +20,8 @@
 <tab title="Scripts">
 <table>
 <tr><td>Name.clickable()</td> <td>Description</td></tr>
-<tr><td><a href=""/> Linux Book</td> <td>JSON based Intelligence | Linux Command Assistant</td></tr>
-<tr><td><a href=""/> Phishing Tracer</td> <td>Auto-trace newly released phishing domains: Optical & Semantic Similarity</td></tr>
+<tr><td><a href="Index-Of-Projects.md"/> Linux Book</td> <td>JSON based Intelligence | Linux Command Assistant</td></tr>
+<tr><td><a href="Index-Of-Projects.md"/> Phishing Tracer</td> <td>Auto-trace newly released phishing domains: Optical & Semantic Similarity</td></tr>
 </table>
 </tab>
 </tabs>

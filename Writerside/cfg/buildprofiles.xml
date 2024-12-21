@@ -3,14 +3,14 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
-    <build-profile instance="in">
+    <build-profile instance="ad">
         <variables>
-            <noindex-content>true</noindex-content>
             <primary-color>strawberry</primary-color>
-            <download-title>Get Ambiance</download-title>
-            <download-page>https://buggy-beans.vercel.app/releases/ambiance.apk</download-page>
+            <download-title>Portfolio Site</download-title>
+            <download-page>https://buggy-beans.vercel.app</download-page>
             <showDownloadButton>true</showDownloadButton>
+            <noindex-content>true</noindex-content>
+            <resizable-sidebar>true</resizable-sidebar>
         </variables>
         <footer>
             <social type="email" href="mailto:ashwin.aksharma.p@gmail.com">Mail me</social>

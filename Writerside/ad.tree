@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ad"
+                 name="Ash Docs"
+                 start-page="Ash-Docs.md">
+
+    <toc-element topic="Ash-Docs.md"/>
+    <toc-element topic="Index-Of-Projects.md"/>
+    <toc-element topic="Ambiance.md"/>
+    <toc-element topic="White-Pigeon.md"/>
+</instance-profile>

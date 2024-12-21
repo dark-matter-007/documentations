@@ -48,9 +48,11 @@ Showcasing Projects, Solutions, and Innovations.
 ##  Blogs / Tutorials
 Discover insights, guides, and tips from my tech journey:
 
-- [Whether to choose Jetpack Compose or XML for Android Dev?](Ash-Docs.md)
-- [Fighting with Linux Bugs: My Tips](Ash-Docs.md)
-- [Creating Clean UI with Flutter](Ash-Docs.md)
+<list>
+  <li> Whether to choose Jetpack Compose or XML for Android Dev?</li>
+  <li> Fighting with Linux Bugs: My Tips</li>
+  <li> Creating Clean UI with Flutter</li>
+</list>
 
 ---
 

@@ -9,8 +9,7 @@
             <download-title>Portfolio Site</download-title>
             <download-page>https://buggy-beans.vercel.app</download-page>
             <showDownloadButton>true</showDownloadButton>
-            <noindex-content>true</noindex-content>
-            <resizable-sidebar>true</resizable-sidebar>
+            <noindex-content>false</noindex-content>
         </variables>
         <footer>
             <social type="email" href="mailto:ashwin.aksharma.p@gmail.com">Mail me</social>

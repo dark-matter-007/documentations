@@ -1,5 +1,7 @@
 # Index Of Projects
 
+Also view [](My-DSA-Practice.md)
+
 <tabs>
 <tab title="Android Apps">
 <table>
@@ -19,9 +21,11 @@
 
 <tab title="Scripts">
 <table>
-<tr><td>Name.clickable()</td> <td>Description</td></tr>
-<tr><td> Linux Book </td> <td>JSON based Intelligence | Linux Command Assistant</td></tr>
-<tr><td> Phishing Tracer</td> <td>Auto-trace newly released phishing domains: Optical & Semantic Similarity</td></tr>
+<tr><td>Name.clickable()</td> <td>Description</td><td>Language</td></tr>
+<tr><td> <a href="Organizer-GS.md"/> </td> <td>Dynamically organize google drive files & append new ones to spreadsheet automatically.</td><td>Google Script</td></tr>
+<tr><td> <a href="Linux-Book.md"></a> </td> <td>JSON based Intelligence | Linux Command Assistant</td><td>Python</td></tr>
+<tr><td> <a href="Phishing-Tracer.md"></a></td> <td>Auto-trace newly released phishing domains: Optical & Semantic Similarity</td><td>Python</td></tr>
 </table>
 </tab>
+
 </tabs>

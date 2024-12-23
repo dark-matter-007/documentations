@@ -1,31 +1,12 @@
 # Ash Docs & Projects
 
 Welcome to My Bleeding-Edge Documentation & Project Center
-Showcasing Projects, Solutions, and Innovations. 
+Showcasing Projects, Solutions, and Innovations.
 
+I am Ashwin Sharma. A Mobile App Developer, Web App Developer, UI Designer, learning ML.
 
-[//]: # (##  About Me)
+## Projects & Docs
 
-[//]: # (Hi, I’m Ashwin Sharma, a passionate **developer**, **designer**, and **problem solver**.)
-
-[//]: # ()
-[//]: # (I specialize in:)
-
-[//]: # (-  Mobile app development)
-
-[//]: # (-  Web development)
-
-[//]: # (-  CAD & 3D design)
-
-[//]: # (-  Learning ML)
-
-[//]: # ()
-[//]: # ([Learn more about me ➡️]&#40;https://buggy-beans.vercel.app&#41;)
-
-[//]: # ()
-[//]: # (---)
-
-##  Projects & Docs
 <p>You might be interested in: <a href="Index-Of-Projects.md"> </a> </p>
 
 <table>
@@ -45,7 +26,8 @@ Showcasing Projects, Solutions, and Innovations.
 
 ---
 
-##  Blogs / Tutorials
+## Blogs / Tutorials
+
 Discover insights, guides, and tips from my tech journey:
 
 <list>
@@ -57,10 +39,14 @@ Discover insights, guides, and tips from my tech journey:
 ---
 
 ## Why this Documentation site?
-This site is meant to standardize & centralize the documentation as well as serving of my open-source as well as closed-source projects.
 
-##  Get in Touch
+This site is meant to standardize & centralize the documentation as well as serving of my open-source as well as
+closed-source projects.
+
+## Get in Touch
+
 Let’s collaborate or chat!
+
 - **Phone**: +91 8920150451
 - **GitHub**: [dark-matter-007](https://github.com/dark-matter-007)
 - **Email**: ashwin.aksharma.p@gmail.com

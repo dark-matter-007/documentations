@@ -10,6 +10,7 @@
             <download-page>https://buggy-beans.vercel.app</download-page>
             <showDownloadButton>true</showDownloadButton>
             <noindex-content>false</noindex-content>
+            <resizable-sidebar>true</resizable-sidebar>
         </variables>
         <footer>
             <social type="email" href="mailto:ashwin.aksharma.p@gmail.com">Mail me</social>

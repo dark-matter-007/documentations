@@ -11,6 +11,13 @@ Also view [](My-DSA-Practice.md)
 </table>
 </tab>
 
+<tab title="Linux Apps">
+<table>
+<tr><td>Name.clickable()</td> <td>Description</td></tr>
+<tr><td><a href="Ambiance-Desktop.md"/></td> <td>High Performance Key-Value Engine Assisted with AI</td></tr>
+</table>
+</tab>
+
 <tab title="Web Apps">
 <table>
 <tr><td>Name.clickable()</td> <td>Description</td></tr>
@@ -27,5 +34,6 @@ Also view [](My-DSA-Practice.md)
 <tr><td> <a href="Phishing-Tracer.md"></a></td> <td>Auto-trace newly released phishing domains: Optical & Semantic Similarity</td><td>Python</td></tr>
 </table>
 </tab>
+
 
 </tabs>

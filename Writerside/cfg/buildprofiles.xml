@@ -7,7 +7,7 @@
         <variables>
             <primary-color>strawberry</primary-color>
             <download-title>Portfolio Site</download-title>
-            <download-page>https://buggy-beans.vercel.app</download-page>
+            <download-page>https://snippetsofpassion.vercel.app</download-page>
             <showDownloadButton>true</showDownloadButton>
             <noindex-content>false</noindex-content>
             <resizable-sidebar>true</resizable-sidebar>
